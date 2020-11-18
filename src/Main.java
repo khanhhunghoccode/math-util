@@ -27,7 +27,8 @@ public class Main {
         //ky vong nem ve ngoai le ma phai la ngoai le IllegalArguementException
         //neu user co tinh dua tham so <0 hoac >20
         System.out.println("expected IllegalArguementException, actual: " + MathUtility.getFactorial(21));
-        System.out.println("Them dong code moi");
+        System.out.println("");
+        System.out.println("I want to see the RED or the GREEN");
     }
     
 }
