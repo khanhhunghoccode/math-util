@@ -42,7 +42,7 @@ public class MathUtilityTest {
         assertEquals(120, getFactorial(5));
         assertEquals(24, getFactorial(4));
         assertEquals(720, getFactorial(6));
-        assertEquals(0, getFactorial(0));
+        assertEquals(1, getFactorial(1));
         //vietsub: hãy tính giùm 5! có bằng 120 không, nếu có báo đèn xanh, nếu
         //không thì báo đèn đỏ
     }
